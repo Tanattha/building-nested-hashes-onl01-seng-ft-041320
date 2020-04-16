@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  [status:"dead"] 
+  epic_tragedy[status] = dead
 
   
 
