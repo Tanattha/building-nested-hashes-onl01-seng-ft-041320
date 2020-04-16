@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  [status:"alive"]=[status:"dead"]
+  [status:"dead"] 
 
   
 
